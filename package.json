@@ -1,0 +1,19 @@
+{
+  "name": "algorand-nft-gating",
+  "version": "1.0.0",
+  "description": "gated nft features for algorand",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasony123123/algorand-nft-gating.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasony123123/algorand-nft-gating/issues"
+  },
+  "homepage": "https://github.com/jasony123123/algorand-nft-gating#readme"
+}
